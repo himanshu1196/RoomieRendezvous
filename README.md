@@ -18,3 +18,10 @@ https://farhanghazi17.medium.com/deploy-django-channels-websockets-on-aws-elasti
 https://github.com/PaulleDemon/AWS-deployment/blob/master/django-channels.md
 
 https://medium.com/@elspanishgeek/how-to-deploy-django-channels-2-x-on-aws-elastic-beanstalk-8621771d4ff0
+
+Current Status :
+
+Elastic Beanstalk env paused for now to avoid AWS costs;
+Elasticache Redis cluster deleted and can be recreated for supporting websocket based chat.
+
+[Pause/Resume AWS env](https://jun711.github.io/aws/how-to-pause-or-stop-elastic-beanstalk-environment-from-running/)
