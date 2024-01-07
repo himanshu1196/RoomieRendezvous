@@ -25,3 +25,7 @@ Elastic Beanstalk env paused for now to avoid AWS costs;
 Elasticache Redis cluster deleted and can be recreated for supporting websocket based chat.
 
 [Pause/Resume AWS env](https://jun711.github.io/aws/how-to-pause-or-stop-elastic-beanstalk-environment-from-running/)
+
+
+Home view :
+![Screenshot (125)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/df092146-10e8-4bc1-a4e3-770149c65c69)
