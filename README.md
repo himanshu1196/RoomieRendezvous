@@ -28,4 +28,5 @@ Elasticache Redis cluster deleted and can be recreated for supporting websocket 
 
 
 Home view :
-![Screenshot (125)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/df092146-10e8-4bc1-a4e3-770149c65c69)
+![Screenshot (125)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/55d7b80b-9fe4-4b53-a7a7-c6235853bfce)
+
