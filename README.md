@@ -27,6 +27,9 @@ Elasticache Redis cluster deleted and can be recreated for supporting websocket 
 [Pause/Resume AWS env](https://jun711.github.io/aws/how-to-pause-or-stop-elastic-beanstalk-environment-from-running/)
 
 
-Home view :
+Final UI :
 ![Screenshot (125)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/55d7b80b-9fe4-4b53-a7a7-c6235853bfce)
-
+![Screenshot (124)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/0826df4e-dc52-4507-83e4-15d90c98e9e3)
+![Screenshot (123)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/812d112d-c86d-4f5f-95ce-627fc18ba04d)
+![Screenshot (122)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/093c5507-a8be-4681-942c-f5991561ac1b)
+![Screenshot (121)](https://github.com/himanshu1196/RoomieRendezvous/assets/14277620/1547a488-2dcf-4907-8940-b3f992d8d0a6)
